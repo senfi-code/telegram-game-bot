@@ -1,0 +1,9 @@
+BOT_TOKEN = ""
+
+CRYSTAL_LOGIN = ""
+CRYSTAL_API = ""
+
+X_ROCKET_API = ""
+CRYPTO_BOT_API = ""
+
+ADMIN_ID = ""
